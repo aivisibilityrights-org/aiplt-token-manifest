@@ -10,3 +10,9 @@ This file is essential for:
 - Verifying authorship and license via linked data
 - Indexing by search engines and Web3 systems
 - Timestamping and proof-of-origin in decentralized storage
+## Web3.Storage (IPFS)
+
+This manifest set has been uploaded and permanently stored on Web3.Storage.
+
+📦 **CID**: `bafybeihw2skhgs437cjp4actsziotewvyhrij7uh37273rfilkqr4xolqu`  
+🔗 [View on IPFS](https://bafybeihw2skhgs437cjp4actsziotewvyhrij7uh37273rfilkqr4xolqu.ipfs.w3s.link)
