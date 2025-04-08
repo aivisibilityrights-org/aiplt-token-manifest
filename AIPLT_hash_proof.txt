@@ -1,0 +1,12 @@
+# 🔐 SHA-256 Hash Proof for AI Patent Sovereignty™ Core Files
+Generated on: April 8, 2025  
+Hash Algorithm: SHA-256  
+Tool: Python hashlib  
+Use: Timestamp validation, tamper protection, and proof-of-origin verification.
+
+AIPLT_Manifesto.md: c86efc0beb3abcdab9a19c281075c3a9fc6571767f33d99253511b749f767181
+AIPLT_Protocol.md: e570de1a97e8b1cc014e596ad2020ae327db7ad694fecc20f6602c71ccc37b97
+AIPLT_protocol_diagram.pdf: 4f377b2556ca9d77f8e23dbffc322457668b76f3be69674d7958f75677221378
+AIPLT_protocol_diagram.png: 75bf3f7decef9cb96e1024d325fc5e7a4a42b6561291ee2c38d5a50d00c0960e
+AIPLT_README.md: 1f6d34abbe7af45569061fbada7a4ce6ea7e18ecce57121fd2ba966aca94caca
+AIPLT_hash_proof.txt: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
