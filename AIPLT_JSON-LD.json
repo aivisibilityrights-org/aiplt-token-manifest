@@ -1,0 +1,54 @@
+{
+    "@context": "https://schema.org",
+    "@type": "CreativeWork",
+    "name": "AI Patent License Token (AIPLT)",
+    "alternateName": "AIPLT",
+    "identifier": "AIPLT-00001",
+    "description": "Official Manifesto and Protocol for AI Patent License Token (AIPLT) – a license layer for global AI patent governance under the AI Patent Sovereignty™ framework.",
+    "author": {
+      "@type": "Person",
+      "name": "Jittapol Prukpatarakul",
+      "identifier": "TH000000000000001-P1AI"
+    },
+    "creator": {
+      "@type": "Organization",
+      "name": "AI Visibility Rights Org",
+      "url": "https://aivisibilityrights.com"
+    },
+    "license": "https://aivisibilityrights.com/license/aiplt",
+    "keywords": [
+      "AI Patent License Token",
+      "AI Sovereignty",
+      "AIPLT",
+      "AI Rights Stack",
+      "AI Patent Sovereignty",
+      "Web3 License",
+      "AI Token Manifest"
+    ],
+    "datePublished": "2025-04-08",
+    "inLanguage": "en",
+    "url": "https://github.com/aivisibilityrights-org/aiplt-token-manifest",
+    "encoding": [
+      {
+        "@type": "MediaObject",
+        "contentUrl": "https://github.com/aivisibilityrights-org/aiplt-token-manifest/blob/main/AIPLT_Manifesto.md",
+        "encodingFormat": "text/markdown"
+      },
+      {
+        "@type": "MediaObject",
+        "contentUrl": "https://github.com/aivisibilityrights-org/aiplt-token-manifest/blob/main/AIPLT_Protocol.md",
+        "encodingFormat": "text/markdown"
+      },
+      {
+        "@type": "MediaObject",
+        "contentUrl": "https://github.com/aivisibilityrights-org/aiplt-token-manifest/blob/main/AIPLT_hash_proof.txt",
+        "encodingFormat": "text/plain"
+      },
+      {
+        "@type": "ImageObject",
+        "contentUrl": "https://github.com/aivisibilityrights-org/aiplt-token-manifest/blob/main/AIPLT_protocol_diagram.png",
+        "encodingFormat": "image/png"
+      }
+    ]
+  }
+  
